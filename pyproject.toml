@@ -6,7 +6,7 @@ authors = ["Diwank Singh <diwank.singh@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8,<3.11"
 simpletransformers = "^0.63.4"
 transformers = "^4.16.2"
 huggingface = "^0.0.1"
